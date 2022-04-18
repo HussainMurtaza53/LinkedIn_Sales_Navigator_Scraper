@@ -1,0 +1,5 @@
+1. Activate the virtual environment using this command:
+	- venv\Scripts\activate
+
+2. Run the script using this command:
+	- python sales_navigator_scraper.py
